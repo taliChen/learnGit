@@ -4,6 +4,8 @@ test_feature
 heihei
 test rebase
 test rebase2
+test rebase3
+test rebase4
 1
 2
 3
